@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  ahahaha
-//
-//  Created by Pasqualina Errico on 04/04/23.
-//
+
 
 import SwiftUI
 
